@@ -48,3 +48,7 @@
 
 - Not well-understood theoretically (yet)
 - Behaves differently during training and testing: this is a very common source of bugs!
+
+### HW4 -- RNN & LSTM & style transfer
+
+- [12-RNN_LSTM]('./Slides/12-RNN_LSTM.pdf')
