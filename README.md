@@ -51,4 +51,5 @@
 
 ### HW4 -- RNN & LSTM & style transfer
 
-- [12-RNN_LSTM]('./Slides/12-RNN_LSTM.pdf')
+- [RNN_LSTM]('./Slides/12-RNN_LSTM.pdf'')
+- [Visualization]('./Slides/14-Visualization.pdf')
