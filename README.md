@@ -52,4 +52,16 @@
 ### HW4 -- RNN & LSTM & style transfer
 
 - [RNN_LSTM]('./Slides/12-RNN_LSTM.pdf'')
-- [Visualization]('./Slides/14-Visualization.pdf')
+
+### HW6 VAE & GAN
+
+- [explain vae](https://medium.com/towards-data-science/understanding-variational-autoencoders-vaes-f70510919f73)
+- AE -- encode image to a point
+- VAE -- encode image to a distribution
+
+  - a variational autoencoder can be defined as being an autoencoder whose training is regularised to avoid **overfitting** and ensure that the latent space has **good properties** that enable generative process.
+
+- ![vae vs ae](./assets//vae_vs_ae.png)
+
+- [VAE - code example](https://medium.com/@jimwang3589/variational-autoencoder-vae-7609893c80f4)
+- ![vae](./assets/vae.png)
