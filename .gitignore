@@ -1,0 +1,8 @@
+__pycache__
+*.zip
+cifar*
+*.pt
+datasets
+styles
+*.npz
+MNIST_data
